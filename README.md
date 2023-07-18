@@ -1,2 +1,0 @@
-# ini
-yang ini
